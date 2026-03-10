@@ -1,0 +1,15 @@
+{
+  "name": "shanghai-airport-login",
+  "version": "1.0.0",
+  "description": "上海机场集团安全管理系统自动登录脚本",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["automation", "login", "puppeteer", "shanghai-airport"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^21.0.0"
+  }
+}
