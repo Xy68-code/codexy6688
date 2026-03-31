@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/
